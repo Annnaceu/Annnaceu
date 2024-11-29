@@ -74,6 +74,11 @@ Trabalho com **Python**, **React**, **Go**, **Java**, e tecnologias web modernas
 
 ---
 
+### 💉 [Banco de Sangue](https://github.com/Annnaceu/Banco_de_Sangue.git)
+- **Descrição**: Sistema de gestão de doadores de sangue.
+- **Objetivo**: Facilitar o gerenciamento de doadores e contatos.
+- **Tecnologias**: Django, PostgreSQL.
+
 ## 📊 Gráficos de Contribuições
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Annnaceu&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150"/>
