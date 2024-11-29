@@ -45,7 +45,21 @@ Trabalho com **Python**, **React**, **Go**, **Java**, e tecnologias web modernas
   - Integração com modelos de aprendizado de máquina.
 
 ---
-
+### 🎶 [Desafio Aceito: Criando uma API REST para um Marketplace de Discos!](https://github.com/Annnaceu/marketplace-api.git)
+- **Descrição**: Criando uma API REST para um marketplace de discos, com a funcionalidade de carrinho de compras e transações de e-commerce, como parte de um desafio do LinkedIn.
+- **Objetivo**: Desenvolver uma API para um marketplace de discos que interage com um aplicativo mobile e uma aplicação web.
+- **Tecnologias**: Java, Spring Boot, H2 Database.
+- **Funcionalidades**:
+  - Criação de Carrinho: Endpoint para criar um novo carrinho de compras.
+  - Adição e Remoção de Itens: Funções para gerenciar os itens dentro do carrinho.
+  - Listagem de Itens: API para listar todos os itens presentes no carrinho.
+  - Persistência de Dados: Utilização do H2 para um armazenamento eficiente.
+- **Destaques**:
+  - Aplicação de conceitos de API RESTful e gerenciamento de estado.
+  - Persistência de dados com H2.
+  - Desenvolvido utilizando Spring Boot para facilitar o processo de criação da API.
+ 
+  - 
 ### 🛍️ [Automação de Web Scraping - Magazine Luiza](https://github.com/Annnaceu/DesafioPratico.git)
 - **Descrição**: Automação de coleta e classificação de dados de notebooks no site Magazine Luiza, com geração de relatórios categorizados.
 - **Objetivo**: Facilitar a análise de produtos e envio de relatórios para tomada de decisão.
