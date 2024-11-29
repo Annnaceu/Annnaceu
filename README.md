@@ -79,6 +79,12 @@ Trabalho com **Python**, **React**, **Go**, **Java**, e tecnologias web modernas
 - **Objetivo**: Facilitar o gerenciamento de doadores e contatos.
 - **Tecnologias**: Django, PostgreSQL.
 
+### 📖 [Criador de Histórias Aleatórias](https://github.com/Annnaceu/Historias_java.git)
+- **Descrição**: Gerador de histórias criativas usando lógica baseada em Java.
+- **Tecnologias**: Java, Spring Boot.
+
+---
+
 ## 📊 Gráficos de Contribuições
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Annnaceu&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150"/>
