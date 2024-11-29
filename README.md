@@ -1,66 +1,86 @@
-Bem-vindo ao Meu Portfólio de Projetos! 👋
-Sou estudante de Engenharia de Software com grande interesse nas áreas de Inteligência Artificial e Machine Learning. Trabalho com Python e Java, e já desenvolvi APIs REST em Java, mas minha paixão principal está em aprendizado de máquina e IA. Aqui estão alguns dos projetos em que trabalhei, focados em áreas como visão computacional, análise de dados e automação.
+# 🎨 Bem-vindo ao Meu Portfólio de Projetos! 👋
 
-📂 Projetos em Destaque
-Projeto de Detecção de Mãos e Bolinha 🖐️⚪
-Descrição: Este projeto utiliza visão computacional para detectar mãos e identificar a presença de uma bolinha em uma cena, utilizando técnicas de Machine Learning e a biblioteca MediaPipe.
+Olá! Sou **Ana Maria do Céu Gomes**, estudante de **Engenharia de Software** apaixonada por **Inteligência Artificial (IA)**, **Visão Computacional** e **Automação de Processos**.  
+Trabalho com **Python**, **Java**, **Go** e tecnologias web modernas, buscando sempre criar soluções criativas e impactantes.
 
-Objetivo: Detectar a quantidade de dedos levantados e verificar se uma bolinha está presente em uma cena, utilizando dados coletados em tempo real a partir de uma webcam.
-Tecnologias:
-Python: A linguagem utilizada para implementar o projeto, pela sua versatilidade em ciência de dados.
-MediaPipe: Biblioteca de rastreamento de mãos, utilizada para identificar as posições das mãos em tempo real.
-Modelo de Machine Learning: Modelo treinado para prever a presença da bolinha com base nas características da mão em diferentes posições.
-Funcionalidades:
-Rastreamento de mãos e detecção da bolinha em tempo real, com processamento direto da imagem da webcam.
-link repositorio:https://github.com/Annnaceu/detector-maos.git
+---
 
-Análise de Padrões de Compras em Supermercado 🛒📊
-Descrição: Este projeto de análise de dados explora padrões de compras em um supermercado, buscando insights para estratégias de marketing e campanhas de vendas.
-Objetivo: Identificar padrões de compras e segmentar clientes com base no comportamento de consumo. Inspirado na ideia de que "dados são o novo petróleo", o projeto visa transformar dados em informações estratégicas.
-Tecnologias:
-Python (Pandas, Matplotlib, Seaborn): Para análise de dados e visualização.
-Scikit-Learn: Para clusterização de clientes utilizando o algoritmo K-means.
-Streamlit: Interface interativa para visualização dos gráficos e explicações detalhadas.
-Funcionalidades:
-Clusterização de Clientes: Segmentação com K-means para identificar grupos de clientes com comportamentos de compra semelhantes.
-Análise Exploratória de Dados (EDA): Gráficos que mostram os itens mais comprados, pares de itens frequentemente comprados e distribuição de itens por cliente.
-Sugestões de Combos Promocionais: Baseadas nas análises, fornecendo recomendações para campanhas de marketing.
-link repositorio:https://github.com/Annnaceu/analise-supermercado.git
+## 🚀 Tecnologias que Trabalho
 
-Banco de Sangue 💉🩸
-Descrição: Uma aplicação web em Django para cadastro e gestão de doadores de sangue, oferecendo uma interface intuitiva para que hospitais e organizações de saúde acessem uma lista de doadores disponíveis.
-Objetivo: Facilitar o cadastro e a consulta de doadores de sangue por tipo sanguíneo e contato.
-Tecnologias: Django, banco de dados relacional (SQLite ou PostgreSQL).
-Funcionalidades:
-Cadastro de doadores, incluindo nome, contato e tipo sanguíneo.
-Interface para consulta e atualização de informações.
-link repositorio:https://github.com/Annnaceu/Banco_de_Sangue.git
+<div align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="Python" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="React" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="Django" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919852.png" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732228.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919842.png" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919840.png" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="Go" width="40" height="40"/>
+</div>
 
-Web Scraping com RPA - Magazine Luiza 🛍️🤖
-Descrição: Projeto de automação para extração de dados de notebooks no site Magazine Luiza, com relatórios categorizados e enviados por e-mail.
-Objetivo: Extrair dados de notebooks, classificá-los em 'Melhores' e 'Piores', e gerar um relatório automatizado enviado por e-mail.
-Tecnologias: Python (Selenium) para automação e manipulação de dados.
-Funcionalidades:
-Extração e categorização de dados.
-Relatórios gerados em Excel com envio automatizado por e-mail.
-link repositorio:https://github.com/Annnaceu/DesafioPratico.git
+---
 
-Criador de Histórias Aleatórias 📖✨
-Descrição: Um projeto criativo em Java com Spring Boot para gerar histórias aleatórias, explorando lógica criativa além de aplicações comuns de APIs.
-Objetivo: Desenvolver habilidades em Java criando histórias envolventes e criativas.
-Tecnologias: Java, Spring Boot.
-Funcionalidades:
-Geração de histórias aleatórias com estrutura de enredo baseada em lógica criativa.
-link repositorio:https://github.com/Annnaceu/Historias_java.git
+## 📂 Projetos em Destaque
 
-Detecção de Colesterol 🧬💉
-Descrição: Projeto de Machine Learning para calcular a taxa de colesterol com base em variáveis como horas de atividade física e idade. A interface permite ao usuário inserir dados e visualizar previsões em tempo real.
-Objetivo: Prever taxas de colesterol e promover a conscientização sobre saúde.
-Tecnologias:
-Python, Jupyter Notebook para análise de dados.
-Streamlit para uma interface interativa.
-Funcionalidades:
-Entrada personalizada de dados para previsão de colesterol.
-Interface amigável para visualização das previsões em tempo real.
-link repositorio:https://github.com/Annnaceu/projeto-ml.git
+### 🖐️ [Lista de Tarefas com Visão Computacional](https://github.com/Annnaceu/detector-maos.git)
+- **Descrição**: Aplicação que detecta expressões faciais e movimentos para gerenciar tarefas de forma interativa.
+- **Objetivo**: Melhorar a interação com listas de tarefas usando IA e visão computacional.
+- **Tecnologias**: Python, MediaPipe, Streamlit.
+
+---
+
+### 🛠️ [Gerador de Portfólio com Go](https://github.com/Annnaceu/gerador-portifolio.git)
+- **Descrição**: Ferramenta simples e eficiente para criar e gerenciar portfólios.
+- **Objetivo**: Automatizar a criação de portfólios para desenvolvedores.
+- **Tecnologias**: Go, SQLite.
+
+---
+
+### 🛒 [Análise de Padrões de Compras em Supermercado](https://github.com/Annnaceu/analise-supermercado.git)
+- **Descrição**: Clusterização de clientes e insights de marketing com K-means.
+- **Objetivo**: Identificar padrões e sugerir estratégias de vendas.
+- **Tecnologias**: Python, Pandas, Scikit-learn, Matplotlib.
+
+---
+
+### 💉 [Banco de Sangue](https://github.com/Annnaceu/Banco_de_Sangue.git)
+- **Descrição**: Sistema de gestão de doadores de sangue.
+- **Objetivo**: Facilitar o gerenciamento de doadores e contatos.
+- **Tecnologias**: Django, PostgreSQL.
+
+---
+
+### 📖 [Criador de Histórias Aleatórias](https://github.com/Annnaceu/Historias_java.git)
+- **Descrição**: Gerador de histórias criativas usando lógica baseada em Java.
+- **Tecnologias**: Java, Spring Boot.
+
+---
+
+## 📊 Gráficos de Contribuições
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Annnaceu&show_icons=true&theme=radical" alt="Estatísticas do GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Annnaceu&layout=compact&theme=radical" alt="Linguagens mais usadas" height="150"/>
+</div>
+
+---
+
+## 🌟 Sobre Mim
+- 🎓 Estudante de Engenharia de Software na **UBM (2024-2028)**.
+- 🎯 Certificações em:
+  - Java Avançado.
+  - Python para Ciência de Dados e Automação.
+  - Desenvolvimento Web Full-Stack com React e Node.js.
+- 💡 Paixões: **Aprendizado de Máquina**, **Visão Computacional** e **Desenvolvimento Full-Stack**.
+- 📧 **E-mail**: [anamariadoceugomes@gmail.com](mailto:anamariadoceugomes@gmail.com)  
+- 🌐 **LinkedIn**: [Meu Perfil](https://www.linkedin.com/in/ana-gomes080520)
+
+---
+
+*Feito com 💖 por Ana Maria do Céu Gomes.*
+
+       
+
 
