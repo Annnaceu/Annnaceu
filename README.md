@@ -45,6 +45,13 @@ Trabalho com **Python**, **React**, **Go**, **Java**, e tecnologias web modernas
   - Integração com modelos de aprendizado de máquina.
 
 ---
+
+### 🛒 [Análise de Padrões de Compras em Supermercado](https://github.com/Annnaceu/analise-supermercado.git)
+- **Descrição**: Clusterização de clientes e insights de marketing com K-means.
+- **Objetivo**: Identificar padrões e sugerir estratégias de vendas.
+- **Tecnologias**: Python, Pandas, Scikit-learn, Matplotlib.
+
+---
 ### 🎶 [Desafio Aceito: Criando uma API REST para um Marketplace de Discos!](https://github.com/Annnaceu/marketplace-api.git)
 - **Descrição**: Criando uma API REST para um marketplace de discos, com a funcionalidade de carrinho de compras e transações de e-commerce, como parte de um desafio do LinkedIn.
 - **Objetivo**: Desenvolver uma API para um marketplace de discos que interage com um aplicativo mobile e uma aplicação web.
@@ -59,7 +66,8 @@ Trabalho com **Python**, **React**, **Go**, **Java**, e tecnologias web modernas
   - Persistência de dados com H2.
   - Desenvolvido utilizando Spring Boot para facilitar o processo de criação da API.
  
-  - 
+  ---
+ 
 ### 🛍️ [Automação de Web Scraping - Magazine Luiza](https://github.com/Annnaceu/DesafioPratico.git)
 - **Descrição**: Automação de coleta e classificação de dados de notebooks no site Magazine Luiza, com geração de relatórios categorizados.
 - **Objetivo**: Facilitar a análise de produtos e envio de relatórios para tomada de decisão.
