@@ -25,6 +25,7 @@ Trabalho com **Python**, **React**, **Go**, **Java**, e tecnologias web modernas
 
 ## 📂 Projetos em Destaque
 
+
 🚀 Novos Projetos de Backend
 🌐 API para Gerenciamento de Clientes - Prisma, MongoDB e TypeScript
 Descrição: Backend para um sistema de gerenciamento de clientes, utilizando Prisma com MongoDB e TypeScript.
@@ -49,6 +50,7 @@ Destaques:
 Axios para fazer requisições ao backend.
 TailwindCSS para um design moderno e responsivo.
 React e TypeScript para criar uma experiência de usuário interativa e segura.
+
 
 ### 🖥️ [Lista de Tarefas com Emoções - React](https://github.com/Annnaceu/lista-tarefas-emocoes.git)
 - **Descrição**: Um site completo em React que utiliza visão computacional para reconhecer emoções em tempo real e recomendar tarefas personalizadas com base no humor do usuário.
