@@ -25,6 +25,31 @@ Trabalho com **Python**, **React**, **Go**, **Java**, e tecnologias web modernas
 
 ## 📂 Projetos em Destaque
 
+🚀 Novos Projetos de Backend
+🌐 API para Gerenciamento de Clientes - Prisma, MongoDB e TypeScript
+Descrição: Backend para um sistema de gerenciamento de clientes, utilizando Prisma com MongoDB e TypeScript.
+Objetivo: Criar uma API REST para realizar operações de CRUD (criar, ler, atualizar e excluir) clientes em um banco de dados MongoDB.
+Tecnologias: TypeScript, Prisma, MongoDB, Fastify.
+Funcionalidades:
+Cadastro de Clientes: Endpoint para criar novos clientes.
+Listagem de Clientes: Endpoint para listar todos os clientes cadastrados.
+Exclusão de Clientes: Endpoint para excluir clientes pelo ID.
+Destaques:
+Prisma para gerenciar o banco de dados MongoDB de forma simples e eficiente.
+Fastify para alta performance na criação do servidor.
+💻 Frontend do Sistema de Gerenciamento de Clientes - React, Axios e TailwindCSS
+Descrição: Frontend construído com React, Axios para comunicação com o backend, e TailwindCSS para o design.
+Objetivo: Desenvolver a interface de usuário para cadastrar, listar e excluir clientes em uma aplicação web.
+Tecnologias: React, Axios, TailwindCSS, TypeScript.
+Funcionalidades:
+Cadastro de Clientes: Formulário para cadastrar novos clientes.
+Listagem de Clientes: Exibição de todos os clientes cadastrados.
+Exclusão de Clientes: Possibilidade de excluir clientes da lista.
+Destaques:
+Axios para fazer requisições ao backend.
+TailwindCSS para um design moderno e responsivo.
+React e TypeScript para criar uma experiência de usuário interativa e segura.
+
 ### 🖥️ [Lista de Tarefas com Emoções - React](https://github.com/Annnaceu/lista-tarefas-emocoes.git)
 - **Descrição**: Um site completo em React que utiliza visão computacional para reconhecer emoções em tempo real e recomendar tarefas personalizadas com base no humor do usuário.
 - **Objetivo**: Criar uma experiência dinâmica e interativa que combina IA e produtividade.
