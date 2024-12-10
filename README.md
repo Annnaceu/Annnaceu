@@ -151,7 +151,6 @@ Trabalho com **Python**, **React**, **Go**, **Java**, **JavaScript**, **TypeScri
 
 ---
 
-Agora seu **portfólio** está completo, com todos os detalhes dos **novos projetos de backend e frontend**, prontos para serem compartilhados e visualizados. 🚀
 ## 🌟 Sobre Mim
 - 🎓 Estudante de Engenharia de Software na **UBM (2024-2028)**.
 - 🎯 Certificações em:
